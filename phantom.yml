@@ -5,4 +5,4 @@ services:
   - redis:2.8
 cache: vendor/bundle
 commands:
-  - bundle exec gem install middleman
+  - gem install middleman
