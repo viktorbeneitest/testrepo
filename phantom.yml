@@ -5,5 +5,4 @@ services:
   - redis:2.8
 cache: vendor/bundle
 commands:
-  - bundle --jobs=4
-  - bundle exec rspec
+  - bundle exec gem install middleman
