@@ -1,7 +1,6 @@
 testrepo
 ========
 
-testrepo
 
 Generate (test) empty commit:
 
